@@ -1,0 +1,20 @@
+hello hadoop
+hello hdfs
+hello mapreduce
+hello yarn
+hello hive
+
+hello hadoop
+hello b.txt
+hello hdfs
+hello mapreduce
+hello yarn
+hello hive
+
+hello hadoop
+hello c.txt
+hello hdfs
+hello mapreduce
+hello yarn
+hello hive
+
